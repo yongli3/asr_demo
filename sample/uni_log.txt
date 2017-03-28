@@ -1,0 +1,4 @@
+Mar 28 15:56:10.390	ERRO - SERVICE	first login error!
+Mar 28 15:56:13.896	ERRO - SERVICE	first login error!
+Mar 28 15:56:17.400	ERRO - SERVICE	first login error!
+Mar 28 15:56:20.926	ERRO - SERVICE	first login error!
